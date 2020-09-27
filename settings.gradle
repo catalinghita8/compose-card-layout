@@ -1,0 +1,2 @@
+rootProject.name = "Compose Application 2"
+include ':app'
